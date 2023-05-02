@@ -1,0 +1,63 @@
+post
+
+{
+  "text": "rctvbyunijmkl",
+  "image": "image12",
+  "createdAt": "09/08/1999",
+  "likes": [],
+   "comments": [{
+      "userID": "",
+      "text": "zsexdrcftvgbyhnjkm",
+      "createdAt": "09/08/1999"
+    }]
+} 
+
+
+friend
+{
+  "name": "Tony",
+  "email": "tony@gmail.com",
+  "password": "ABCD@123",
+  "dob": "09/08/1999",
+  "bio": "sxcdvfcb gfctrgyubh",
+  "posts": [],
+  "friends": [],
+  "friendRequests": [],
+  "userId":""
+}
+
+
+login
+
+{
+  "email": "tony@gmail.com",
+  "password": "ABCD@123"	
+}
+
+user
+
+{
+   "name": "Tony",
+  "email": "tony@gmail.com",
+  "password": "ABCD@123",
+  "dob": "09/08/1999",
+  "bio": "sxcdvfcb gfctrgyubh",
+  "posts": [],
+  "friends": [],
+  "friendRequests": [],
+}
+
+
+friends
+
+{
+   "name": "Tony",
+  "email": "tony@gmail.com",
+  "password": "ABCD@123",
+  "dob": "09/08/1999",
+  "bio": "sxcdvfcb gfctrgyubh",
+  "posts": [],
+  "friends": [],
+  "friendRequests": [],
+  "accept":false
+}
